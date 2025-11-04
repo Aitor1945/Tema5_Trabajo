@@ -18,10 +18,10 @@
         <input type="number" id="salario" name="salario" required>
 
         <label for="gerente">Gerente:</label>
-        <input type="checkbox" required>
+        <input type="radio" required>
 
         <label for="vendedor">Vendedor:</label>
-        <input type="checkbox" required>
+        <input type="radio" required>
 
         <button type="submit">Enviar</button>
     </form>
