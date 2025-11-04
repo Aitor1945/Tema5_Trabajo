@@ -1,0 +1,1 @@
+Joel-Lógica de clase empleado, en la cual hereda a la clase gerente y vendedor.
