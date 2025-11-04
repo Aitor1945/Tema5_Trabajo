@@ -1,7 +1,7 @@
 <?php
 //Clase
 class Empleado{
-    //Atributoss
+    //Atributos
     public $nombre;
     public $apellido;
     public $salario_base;
